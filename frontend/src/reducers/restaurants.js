@@ -1,6 +1,6 @@
 import { REQUEST_STATE } from "../constants";
 
-export const intialState = {
+export const initialState = {
 	fetchState: REQUEST_STATE.INITIAL,
 	restaurantsList: [],
 };
